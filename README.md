@@ -2,7 +2,7 @@
 JewelleryCo is a graphical user interface (GUI) application that allows users to manage and organize jewellery items. With JewelleryCo, users can easily sort jewellery items by type, name, price, and origin, as well as edit their availability, add new items with unique SKUs, calculate prices based on material and weight, and delete items.  
 
 
-Features  
+# Features  
 
 View all jewellery items in the jewellery.dat file through a user-friendly GUI window.  
 
@@ -23,7 +23,7 @@ Delete jewellery items while checking for SKU existence to prevent errors.
 # Getting Started
 Clone or download the JewelleryCo repository to your local machine.  
 
-Run the jewellery_management_app.py script to launch the application.  
+Run JewelleryCo.jar application to launch.  
 
 Use the GUI interface to manage jewellery items as per the features listed above.  
 
